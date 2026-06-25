@@ -1,0 +1,54 @@
+Model: CameraMount.SLDPRT
+Project name: Test
+Config name: Default
+Project path: C:\Users\Kyle\Important\rocketrycad26\Avionics Bay Components\1\1.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 185184
+    Fluid cells: 185184
+    Solid cells: 14457
+    Fluid cells containing solids: 8956
+
+
+Geometry preparation finished: 23:07:33
+Geometry preparation time: 00:00:07
+Solver CPU time: 00:04:43
+Iterations: 135
+Travels: 1.18423
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 23:12:02
+CPU time per last iteration: 00:00:02
+CPU time left: 00:00:06
+Iterations per 1 travel: 114
+
+Goals
+    Name           | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Force (Y) 1 | force    |            6.32 |     100.0 |            0.56 |            0.54 | On
+    GG Force (Z) 2 | force    |            9.28 |     100.0 |            1.93 |            0.29 | On
+
+Project details
+    Default fluids: Air
+    Analysis type: External
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2025 SP5.0
+    Computer name: DESKTOP-H0F7FJV
+    User name: Kyle
+    Operating system: Windows 11 (or higher) (Version 10.0.26200)
+    Processors: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+    Number of cores: 8
+    Memory: 16508 MB / 32602 MB
+

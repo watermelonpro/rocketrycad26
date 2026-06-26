@@ -1,0 +1,67 @@
+{
+    "version": 0,
+    "model_name": "Full Rocket Assembly.SLDASM",
+    "project_name": "Rocket Only",
+    "config_name": "Default",
+    "project_path": "C:\\Users\\Kyle\\Important\\rocketrycad26\\2\\2.xmlconfig",
+    "finished": true,
+    "mesh": {
+        "cells_total": 80776,
+        "cells_fluid": 80776,
+        "cells_solid": 1428,
+        "cells_fluid_containing_solid": 1284
+    },
+    "telemetry": {
+        "prepare_geometry_finished": "20:17:32-0700",
+        "prepare_geometry_total_time": 1,
+        "cpu_time_solver_total": 54,
+        "iteration": 87,
+        "travel": 1.0063023282547658,
+        "phys_time": 0.0,
+        "time_step": 0.0,
+        "last_iteration_finished": "20:18:22-0700",
+        "cpu_time_per_last_iter": 0,
+        "cpu_time_left": 158,
+        "iterations_per_travel": 87
+    },
+    "goals": [
+        {
+            "goal": {
+                "name": "GG Force (Y) 1",
+                "unit": "force",
+                "value": -164.0341085143666,
+                "progress": 100.0,
+                "criteria": 8.359518196625308,
+                "delta": 6.344161410949482,
+                "use_in_convergence": true
+            }
+        }
+    ],
+    "settings": {
+        "default_fluids": [
+            "Air"
+        ],
+        "analysis_type": "external",
+        "heat_conduction_in_solids": false,
+        "radiation": false,
+        "time_dependent": false,
+        "gravity": false,
+        "flow_type": "laminar and turbulent",
+        "cavitation": false,
+        "high_mach_number": true,
+        "free_surface": false,
+        "structural": false,
+        "electromagnetism": false
+    },
+    "system_info": {
+        "product_name": "Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
+        "cad_version": "SOLIDWORKS 2025 SP5.0",
+        "computer_name": "DESKTOP-H0F7FJV",
+        "user_name": "Kyle",
+        "os": "Windows 11 (or higher) (Version 10.0.26200)",
+        "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
+        "number_of_cores": 8,
+        "memory_avail": 18548,
+        "memory_total": 32602
+    }
+}

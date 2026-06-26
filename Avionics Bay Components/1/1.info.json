@@ -6,33 +6,33 @@
     "project_path": "C:\\Users\\Kyle\\Important\\rocketrycad26\\Avionics Bay Components\\1\\1.xmlconfig",
     "finished": true,
     "mesh": {
-        "cells_total": 185184,
-        "cells_fluid": 185184,
-        "cells_solid": 14457,
-        "cells_fluid_containing_solid": 8956
+        "cells_total": 308599,
+        "cells_fluid": 308599,
+        "cells_solid": 25132,
+        "cells_fluid_containing_solid": 15637
     },
     "telemetry": {
-        "prepare_geometry_finished": "23:07:33-0700",
-        "prepare_geometry_total_time": 7,
-        "cpu_time_solver_total": 283,
-        "iteration": 135,
-        "travel": 1.1842297151261962,
+        "prepare_geometry_finished": "18:14:48-0700",
+        "prepare_geometry_total_time": 9,
+        "cpu_time_solver_total": 425,
+        "iteration": 190,
+        "travel": 1.405806139468703,
         "phys_time": 0.0,
         "time_step": 0.0,
-        "last_iteration_finished": "23:12:02-0700",
+        "last_iteration_finished": "18:21:34-0700",
         "cpu_time_per_last_iter": 2,
-        "cpu_time_left": 6,
-        "iterations_per_travel": 114
+        "cpu_time_left": 17,
+        "iterations_per_travel": 136
     },
     "goals": [
         {
             "goal": {
                 "name": "GG Force (Y) 1",
                 "unit": "force",
-                "value": 6.324259690980201,
+                "value": 1.115026357598337,
                 "progress": 100.0,
-                "criteria": 0.5631404601094882,
-                "delta": 0.5385935691087846,
+                "criteria": 0.466055018683465,
+                "delta": 0.4631436223809833,
                 "use_in_convergence": true
             }
         },
@@ -40,10 +40,21 @@
             "goal": {
                 "name": "GG Force (Z) 2",
                 "unit": "force",
-                "value": 9.284970265124779,
+                "value": 5.4648873482581415,
                 "progress": 100.0,
-                "criteria": 1.933281322652753,
-                "delta": 0.28696600252014726,
+                "criteria": 2.6715664976649958,
+                "delta": 0.02748120367892426,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "Equation Goal 1",
+                "unit": "force",
+                "value": 0.40262115000475796,
+                "progress": 100.0,
+                "criteria": 0.19682549832374974,
+                "delta": 0.0020246554272065898,
                 "use_in_convergence": true
             }
         }
@@ -72,7 +83,7 @@
         "os": "Windows 11 (or higher) (Version 10.0.26200)",
         "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
         "number_of_cores": 8,
-        "memory_avail": 16508,
+        "memory_avail": 18190,
         "memory_total": 32602
     }
 }

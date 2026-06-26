@@ -1,0 +1,53 @@
+Model: Full Rocket Assembly.SLDASM
+Project name: Rocket Only
+Config name: Default
+Project path: C:\Users\Kyle\Important\rocketrycad26\2\2.xmlconfig
+Status: Finished
+
+Number of cells:
+    Total cells: 80776
+    Fluid cells: 80776
+    Solid cells: 1428
+    Fluid cells containing solids: 1284
+
+
+Geometry preparation finished: 20:17:32
+Geometry preparation time: 00:00:01
+Solver CPU time: 00:00:54
+Iterations: 87
+Travels: 1.00630
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 20:18:22
+CPU time per last iteration: 00:00:00
+CPU time left: 00:02:38
+Iterations per 1 travel: 87
+
+Goals
+    Name           | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Force (Y) 1 | force    |         -164.03 |     100.0 |            8.36 |            6.34 | On
+
+Project details
+    Default fluids: Air
+    Analysis type: External
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2025 SP5.0
+    Computer name: DESKTOP-H0F7FJV
+    User name: Kyle
+    Operating system: Windows 11 (or higher) (Version 10.0.26200)
+    Processors: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+    Number of cores: 8
+    Memory: 18548 MB / 32602 MB
+

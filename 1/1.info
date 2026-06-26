@@ -1,0 +1,54 @@
+Model: Full Rocket Assembly.SLDASM
+Project name: Camera Mount Test
+Config name: Default
+Project path: C:\Users\Kyle\Important\rocketrycad26\1\1.xmlconfig
+Status: Calculating
+
+Number of cells:
+    Total cells: 144168
+    Fluid cells: 144168
+    Solid cells: 14642
+    Fluid cells containing solids: 8654
+
+
+Geometry preparation finished: 
+Geometry preparation time: 00:00:00
+Solver CPU time: 00:01:57
+Iterations: 105
+Travels: 1.00124
+Physical time: 0.000000e+00 s
+Current time step: 0.000000e+00 s
+Last iteration finished: 
+CPU time per last iteration: 00:00:00
+CPU time left: 00:00:00
+Iterations per 1 travel: 105
+
+Goals
+    Name            | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Force (Y) 1  | force    |         -168.45 |     100.0 |           10.14 |            3.94 | On
+    Equation Goal 1 | no units |            0.15 |       0.0 |            0.00 |            0.00 | On
+
+Project details
+    Default fluids: 
+    Analysis type: External
+    Heat conduction in solids: Off
+    Radiation: Off
+    Time dependent: Off
+    Gravitational effects: Off
+    Flow type: Laminar and turbulent
+    Cavitation: Off
+    Hign Mach number flow: On
+    Free surface: Off
+    Structural: Off
+    Electromagnetism: Off
+
+System info
+    Product: Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
+    CAD version: SOLIDWORKS 2025 SP5.0
+    Computer name: DESKTOP-H0F7FJV
+    User name: Kyle
+    Operating system: Windows 11 (or higher) (Version 10.0.26200)
+    Processors: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
+    Number of cores: 8
+    Memory: 18337 MB / 32602 MB
+

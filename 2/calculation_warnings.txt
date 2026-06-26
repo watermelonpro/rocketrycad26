@@ -1,0 +1,7 @@
+2026-Jun-25 20:18:22
+Computer name:	DESKTOP-H0F7FJV
+Number of cores used in calculation:	8
+Configuration name:	Default
+Project name:	Rocket Only
+
+Warnings on last iteration: 

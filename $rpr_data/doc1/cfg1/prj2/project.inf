@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>Rocket Only</name>
+	<uuid>908b9e82-7a50-4db9-a9bb-901195532cef</uuid>
+	<directory>prj2</directory>
+	<vwr_res_files_dir>2</vwr_res_files_dir>
+	<geom_db_uuid>041dddff-e4d8-4e5b-b9b7-535107635641</geom_db_uuid>
+	<gdb_light_uuid>fad0cc7d-17da-4fd1-b16e-a17b9a5c3b74</gdb_light_uuid>
+	<model_geom_uuid/>
+	<template_id/>
+</project>

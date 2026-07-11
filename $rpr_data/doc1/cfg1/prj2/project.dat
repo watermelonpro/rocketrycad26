@@ -48,34 +48,26 @@
 		<item>-0.12400409999999999</item>
 		<item>0.12400409999999999</item>
 		<item>-0.0095250000000000855</item>
-		<item>2.2691157716759651</item>
+		<item>2.2878923385975041</item>
 		<item>-0.12400410000000023</item>
 		<item>0.12400410000000002</item>
 	</model_box>
 	<cd_dim>4.0553674697875977</cd_dim>
-	<model_dim>2.3054760681643427</model_dim>
+	<model_dim>2.3240358349696155</model_dim>
 	<flow_space_type>0</flow_space_type>
 	<problem_type>0</problem_type>
 	<rotation_type>0</rotation_type>
 	<plane_irr_shift>4.3300999999999998e-05</plane_irr_shift>
-	<min_grid_step>0.0055514096962027103</min_grid_step>
+	<min_grid_step>0.0037508927285671238</min_grid_step>
 	<transient>false</transient>
 	<task_attributes>
-		<arrFSubst>
-			<item>
-				<SubstUUID>2B966F4A9A9F11D4A50048A0E8000000</SubstUUID>
-				<SubstNAME>Air</SubstNAME>
-				<AllowedMF>true</AllowedMF>
-				<AllowedVF>true</AllowedVF>
-				<AllowedF>true</AllowedF>
-			</item>
-		</arrFSubst>
+		<arrFSubst/>
 		<arrCombustionProductsAllowed/>
 		<arrSubstUUIDs_immi/>
 		<arrSubstNAMESs_immi/>
 		<b_SUPPORT>false</b_SUPPORT>
 		<b_CPT_only>false</b_CPT_only>
-		<b_Use_surface>false</b_Use_surface>
+		<b_Use_surface>true</b_Use_surface>
 		<b_HMN>false</b_HMN>
 		<b_IsAnyCompressible>true</b_IsAnyCompressible>
 		<b_IsAnyGas>true</b_IsAnyGas>
@@ -119,8 +111,8 @@
 	<gravity>false</gravity>
 	<gravity_vector>
 		<item>0</item>
-		<item>-9.8100000000000005</item>
 		<item>0</item>
+		<item>-9.8100000000000005</item>
 	</gravity_vector>
 	<default_font>
 		<name>Arial</name>

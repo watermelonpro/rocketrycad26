@@ -6,22 +6,22 @@
     "project_path": "C:\\Users\\Kyle\\Important\\rocketrycad26\\2\\2.xmlconfig",
     "finished": true,
     "mesh": {
-        "cells_total": 80776,
-        "cells_fluid": 80776,
-        "cells_solid": 1428,
-        "cells_fluid_containing_solid": 1284
+        "cells_total": 81576,
+        "cells_fluid": 81576,
+        "cells_solid": 1440,
+        "cells_fluid_containing_solid": 1296
     },
     "telemetry": {
-        "prepare_geometry_finished": "20:17:32-0700",
-        "prepare_geometry_total_time": 1,
-        "cpu_time_solver_total": 54,
+        "prepare_geometry_finished": "01:59:31-0700",
+        "prepare_geometry_total_time": 2,
+        "cpu_time_solver_total": 48,
         "iteration": 87,
-        "travel": 1.0063023282547658,
+        "travel": 1.0030019787904774,
         "phys_time": 0.0,
         "time_step": 0.0,
-        "last_iteration_finished": "20:18:22-0700",
+        "last_iteration_finished": "02:00:16-0700",
         "cpu_time_per_last_iter": 0,
-        "cpu_time_left": 158,
+        "cpu_time_left": 132,
         "iterations_per_travel": 87
     },
     "goals": [
@@ -29,10 +29,21 @@
             "goal": {
                 "name": "GG Force (Y) 1",
                 "unit": "force",
-                "value": -164.0341085143666,
+                "value": -119.04972251592041,
                 "progress": 100.0,
-                "criteria": 8.359518196625308,
-                "delta": 6.344161410949482,
+                "criteria": 6.886946665685263,
+                "delta": 6.023159302439055,
+                "use_in_convergence": true
+            }
+        },
+        {
+            "goal": {
+                "name": "Equation Goal 1",
+                "unit": "force",
+                "value": -0.4372003698646732,
+                "progress": 100.0,
+                "criteria": 0.025291748404312493,
+                "delta": 0.022119559954690782,
                 "use_in_convergence": true
             }
         }
@@ -61,7 +72,7 @@
         "os": "Windows 11 (or higher) (Version 10.0.26200)",
         "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
         "number_of_cores": 8,
-        "memory_avail": 18548,
+        "memory_avail": 15995,
         "memory_total": 32602
     }
 }

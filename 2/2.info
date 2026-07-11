@@ -5,27 +5,28 @@ Project path: C:\Users\Kyle\Important\rocketrycad26\2\2.xmlconfig
 Status: Finished
 
 Number of cells:
-    Total cells: 80776
-    Fluid cells: 80776
-    Solid cells: 1428
-    Fluid cells containing solids: 1284
+    Total cells: 81576
+    Fluid cells: 81576
+    Solid cells: 1440
+    Fluid cells containing solids: 1296
 
 
-Geometry preparation finished: 20:17:32
-Geometry preparation time: 00:00:01
-Solver CPU time: 00:00:54
+Geometry preparation finished: 01:59:31
+Geometry preparation time: 00:00:02
+Solver CPU time: 00:00:48
 Iterations: 87
-Travels: 1.00630
+Travels: 1.00300
 Physical time: 0.000000e+00 s
 Current time step: 0.000000e+00 s
-Last iteration finished: 20:18:22
+Last iteration finished: 02:00:16
 CPU time per last iteration: 00:00:00
-CPU time left: 00:02:38
+CPU time left: 00:02:12
 Iterations per 1 travel: 87
 
 Goals
-    Name           | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
-    GG Force (Y) 1 | force    |         -164.03 |     100.0 |            8.36 |            6.34 | On
+    Name            | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
+    GG Force (Y) 1  | force    |         -119.05 |     100.0 |            6.89 |            6.02 | On
+    Equation Goal 1 | force    |           -0.44 |     100.0 |            0.03 |            0.02 | On
 
 Project details
     Default fluids: Air
@@ -49,5 +50,5 @@ System info
     Operating system: Windows 11 (or higher) (Version 10.0.26200)
     Processors: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
     Number of cores: 8
-    Memory: 18548 MB / 32602 MB
+    Memory: 15995 MB / 32602 MB
 

@@ -3,10 +3,10 @@
 	<version>1</version>
 	<computational_domain>
 		<cd_box>
-			<item>-0.48908193848355264</item>
-			<item>0.44864120149722331</item>
-			<item>-0.82083067979820235</item>
-			<item>2.8801091176702709</item>
+			<item>-0.59999999999999998</item>
+			<item>0.59999999999999998</item>
+			<item>-5.0999999999999996</item>
+			<item>2.8999999999999999</item>
 			<item>-0.74336546222773736</item>
 			<item>0.62401343188252456</item>
 		</cd_box>
@@ -48,17 +48,17 @@
 		<item>-0.12400409999999999</item>
 		<item>0.12400409999999999</item>
 		<item>-0.0095250000000000855</item>
-		<item>2.2691157716759651</item>
+		<item>2.2878923385975041</item>
 		<item>-0.12400410000000023</item>
 		<item>0.12400410000000002</item>
 	</model_box>
-	<cd_dim>4.0553674697875977</cd_dim>
-	<model_dim>2.3054760681643427</model_dim>
+	<cd_dim>8.2042503356933594</cd_dim>
+	<model_dim>2.3240358349696155</model_dim>
 	<flow_space_type>0</flow_space_type>
 	<problem_type>0</problem_type>
 	<rotation_type>0</rotation_type>
 	<plane_irr_shift>4.3300999999999998e-05</plane_irr_shift>
-	<min_grid_step>0.0055514096962027103</min_grid_step>
+	<min_grid_step>0.0060000000000000001</min_grid_step>
 	<transient>false</transient>
 	<task_attributes>
 		<arrFSubst>
@@ -135,7 +135,7 @@
 	<apply_lighting>true</apply_lighting>
 	<vector_style>0</vector_style>
 	<highlight_color>33023</highlight_color>
-	<select_color>16777215</select_color>
+	<select_color>16755027</select_color>
 	<line_color>0</line_color>
 	<dyn_traj_vel_min>20</dyn_traj_vel_min>
 	<dyn_traj_vel_max>500</dyn_traj_vel_max>

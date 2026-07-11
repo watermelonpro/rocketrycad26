@@ -3,36 +3,36 @@
     "model_name": "Full Rocket Assembly.SLDASM",
     "project_name": "Camera Mount Test",
     "config_name": "Default",
-    "project_path": "C:\\Users\\Kyle\\Important\\rocketrycad26\\1\\1.xmlconfig",
-    "finished": false,
+    "project_path": "C:\\Users\\DanNo\\Documents\\rocketry stuff\\1. rocket cad git\\1\\1.xmlconfig",
+    "finished": true,
     "mesh": {
-        "cells_total": 144168,
-        "cells_fluid": 144168,
-        "cells_solid": 14642,
-        "cells_fluid_containing_solid": 8654
+        "cells_total": 192310,
+        "cells_fluid": 192310,
+        "cells_solid": 12902,
+        "cells_fluid_containing_solid": 7662
     },
     "telemetry": {
-        "prepare_geometry_finished": null,
-        "prepare_geometry_total_time": 0,
-        "cpu_time_solver_total": 117,
-        "iteration": 105,
-        "travel": 1.001235748065984,
+        "prepare_geometry_finished": "14:56:21-0700",
+        "prepare_geometry_total_time": 5,
+        "cpu_time_solver_total": 190,
+        "iteration": 158,
+        "travel": 1.3686523174020113,
         "phys_time": 0.0,
         "time_step": 0.0,
-        "last_iteration_finished": null,
-        "cpu_time_per_last_iter": 0,
-        "cpu_time_left": -1,
-        "iterations_per_travel": 105
+        "last_iteration_finished": "14:59:20-0700",
+        "cpu_time_per_last_iter": 2,
+        "cpu_time_left": 1,
+        "iterations_per_travel": 116
     },
     "goals": [
         {
             "goal": {
                 "name": "GG Force (Y) 1",
                 "unit": "force",
-                "value": -168.45006567020658,
+                "value": -153.71392460952003,
                 "progress": 100.0,
-                "criteria": 10.141459602856399,
-                "delta": 3.943450833064503,
+                "criteria": 0.5,
+                "delta": 0.4954577352663989,
                 "use_in_convergence": true
             }
         },
@@ -40,16 +40,18 @@
             "goal": {
                 "name": "Equation Goal 1",
                 "unit": "no units",
-                "value": 0.15418946346817813,
-                "progress": 0.0,
-                "criteria": 1.5418946346817814e-09,
-                "delta": 0.0,
+                "value": 0.4789458780034386,
+                "progress": 100.0,
+                "criteria": 0.027442820077228838,
+                "delta": 0.0015437602067188694,
                 "use_in_convergence": true
             }
         }
     ],
     "settings": {
-        "default_fluids": [],
+        "default_fluids": [
+            "Air"
+        ],
         "analysis_type": "external",
         "heat_conduction_in_solids": false,
         "radiation": false,
@@ -65,12 +67,12 @@
     "system_info": {
         "product_name": "Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2",
         "cad_version": "SOLIDWORKS 2025 SP5.0",
-        "computer_name": "DESKTOP-H0F7FJV",
-        "user_name": "Kyle",
+        "computer_name": "DESKTOP-PKCA54I",
+        "user_name": "DanNo",
         "os": "Windows 11 (or higher) (Version 10.0.26200)",
-        "cpu": "11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz",
-        "number_of_cores": 8,
-        "memory_avail": 18337,
-        "memory_total": 32602
+        "cpu": "AMD Ryzen 9 7940HS w/ Radeon 780M Graphics     ",
+        "number_of_cores": 16,
+        "memory_avail": 21894,
+        "memory_total": 48349
     }
 }

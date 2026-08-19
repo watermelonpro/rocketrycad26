@@ -24,7 +24,7 @@
 <IsRealGasInProject value="0"/>
 <IsRefDensityUsedForCalcWithGravity value="1"/>
 <IsSteamInProject value="0"/>
-<JobOwnerName value="DESKTOP-H0F7FJV\Kyle"/>
+<JobOwnerName value="DESKTOP-PKCA54I\DanNo"/>
 <JobProjectName value=""/>
 <JouleHeating value="0"/>
 <LicenseType value="8"/>
@@ -60,9 +60,9 @@
 <VersionType value="2"/>
 <WallSlipping value="0"/>
 <ComputationalDomainSidesBCTypes size="6"> 0 0 0 0 0 0 </ComputationalDomainSidesBCTypes>
-<ComputationalDomainSize size="6"> -0.48908193848355264 -0.82083067979820235 -0.74336546222773736 0.44864120149722331 2.8801091176702709 0.62401343188252456 </ComputationalDomainSize>
+<ComputationalDomainSize size="6"> -0.59999999999999998 -5.0999999999999996 -0.74336546222773736 0.59999999999999998 2.8999999999999999 0.62401343188252456 </ComputationalDomainSize>
 <DefaultFluids size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </DefaultFluids>
-<DisabledBodiesIDs size="6"> 8e079150-5022-4833-968f-3f53ff9534e3 5d86086b-3832-4d3b-8cdf-430c20fd2ddd 34f185e8-a68a-48c0-93bb-2e62bba6344d 1630c809-1214-49ea-bdb0-874a7a57f350 6670d970-5d79-4c1d-a1bf-1063a255c6bd 516327bf-9245-4ccc-b36d-cefc67cf1a24 </DisabledBodiesIDs>
+<DisabledBodiesIDs size="0"> </DisabledBodiesIDs>
 <FluidSubstancesUUID size="1"> 2B966F4A9A9F11D4A50048A0E8000000 </FluidSubstancesUUID>
 <GlobalRotateCoordSystem_Axis size="3"> 0 0 0 </GlobalRotateCoordSystem_Axis>
 <GlobalRotateCoordSystem_Point size="3"> 0 0 0 </GlobalRotateCoordSystem_Point>
@@ -165,7 +165,7 @@
 <ExcelParameterLinkedSubId value=""/>
 <ExcelParameterPeriodic value="0"/>
 <ExcelParameterType value="101"/>
-<ExcelParameterValue value="-204"/>
+<ExcelParameterValue value="-240"/>
 <UUID value=""/>
 <Units value="19"/>
 <UseDampedGoalsValues value="0"/>
@@ -1879,8 +1879,8 @@
 <MaxThinChannelRefinementLevel value="1"/>
 <MaximumChannelsThickness value="0"/>
 <MinimumChannelsThickness value="0"/>
-<Nx value="25"/>
-<Ny value="101"/>
+<Nx value="30"/>
+<Ny value="133"/>
 <Nz value="32"/>
 <PartialCellsRefinementLevel value="0"/>
 <RefineAllCells value="0"/>
@@ -1894,15 +1894,15 @@
 <DistanceRefinementLevels size="2"> 0 0 </DistanceRefinementLevels>
 <ControlPoints index="0">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 9 2 2 8 1 </NumOfCells>
-<Points size="5"> -0.48908193848355264 -0.121524018 0 0.121524018 0.44864120149722331 </Points>
-<Ratio size="5"> 1.0629999999999999 1 1 0.98107389989956917 1 </Ratio>
+<NumOfCells size="5"> 11 2 2 12 1 </NumOfCells>
+<Points size="5"> -0.59999999999999998 -0.121524018 0 0.121524018 0.59999999999999998 </Points>
+<Ratio size="5"> 1.1819999999999999 1 1 0.84570001097147118 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="1">
 <Manual size="5"> 0 0 0 0 0 </Manual>
-<NumOfCells size="5"> 8 43 31 14 1 </NumOfCells>
-<Points size="5"> -0.82083067979820235 -0.50554140000000003 1.139183669298752 2.3374939785975042 2.8801091176702709 </Points>
-<Ratio size="5"> 0.96699662568757383 1 1 0.84492521004791066 1 </Ratio>
+<NumOfCells size="5"> 46 41 30 13 1 </NumOfCells>
+<Points size="5"> -5.0999999999999996 -0.50554140000000003 1.139183669298752 2.3374939785975042 2.8999999999999999 </Points>
+<Ratio size="5"> 5.0430000000000001 1 1 0.83161200807685631 1 </Ratio>
 </ControlPoints>
 <ControlPoints index="2">
 <Manual size="5"> 0 0 0 0 0 </Manual>
@@ -1916,7 +1916,7 @@
 <AnalWndUnits value="0"/>
 <AutorefPeriod value="1"/>
 <AutorefStart value="2"/>
-<AveragedParametersUnits value="2"/>
+<AveragedParametersUnits value="0"/>
 <BackupBeforeRef value="1"/>
 <BackupPeriod value="100"/>
 <BackupPeriodUnits value="1"/>
@@ -2055,10 +2055,10 @@
 <Slv_AdvancedOptions size="0"> </Slv_AdvancedOptions>
 <GoalsInfo index="0">
 <GoalInfo index="0">
-<Criteria value="-1"/>
+<Criteria value="0.5"/>
 <CriteriaAbsValue value="1"/>
 <CriteriaPercentage value="3"/>
-<CriteriaType value="0"/>
+<CriteriaType value="1"/>
 <CriteriaVariableType value="0"/>
 <GUID value="b288bdd5-d3dd-4023-b0da-8d196eb5f697"/>
 <Goal_Type value="2"/>
@@ -2073,12 +2073,12 @@
 <CriteriaPercentage value="3"/>
 <CriteriaType value="0"/>
 <CriteriaVariableType value="0"/>
-<GUID value="61cc3623-814c-4519-9928-1af714da7cf9"/>
+<GUID value="de39ee4b-d73e-47c9-900c-ae031298c4ce"/>
 <Goal_Type value="13"/>
 <Goal_Use_In_Convergence value="1"/>
 <Name value="Equation Goal 1"/>
 <Parameter value="-1"/>
-<UnitId value="7"/>
+<UnitId value="42"/>
 </GoalInfo>
 </GoalsInfo>
 </ConvergenceOptions>
@@ -2920,17 +2920,17 @@
 </ExcelParameter>
 </ExcelParameterCollection>
 <ExportProjectToNastran index="0">
-<ExportProjectToNastran_FilePath value="C:\Users\Kyle\Important\rocketrycad26\1\Camera Mount Test.dat"/>
-<ExportProjectToNastran_NastranSolverOutputDirectory value="C:\Users\Kyle\Important\rocketrycad26\1\nastran"/>
+<ExportProjectToNastran_FilePath value="C:\Users\DanNo\Documents\rocketry stuff\1. rocket cad git\1\Camera Mount Test.dat"/>
+<ExportProjectToNastran_NastranSolverOutputDirectory value="C:\Users\DanNo\Documents\rocketry stuff\1. rocket cad git\1\nastran"/>
 </ExportProjectToNastran>
 <FMUImport index="0">
 </FMUImport>
 <Features_Equation_Goal index="0">
 <Equation_Goal index="0">
 <FeatureType value="13"/>
-<Formula value="(2*{b288bdd5-d3dd-4023-b0da-8d196eb5f697})/(1.225*(204*204)*0.01111004)"/>
+<Formula value="2*abs({b288bdd5-d3dd-4023-b0da-8d196eb5f697})/(1.225*240^2*0.009097)"/>
 <FrameOfRefUUID value=""/>
-<GUID value="61cc3623-814c-4519-9928-1af714da7cf9"/>
+<GUID value="de39ee4b-d73e-47c9-900c-ae031298c4ce"/>
 <Goal_Calc_Value value="0"/>
 <Goal_Fluid_Fraction_UUID value=""/>
 <Goal_Type value="-1"/>
@@ -2938,7 +2938,7 @@
 <Goal_Use_In_Convergence value="1"/>
 <Name value="Equation Goal 1"/>
 <ParentFeatureUUID value=""/>
-<Units value="7"/>
+<Units value="42"/>
 <Excluded_Faces_Keys size="0"> </Excluded_Faces_Keys>
 <FeatureFrameOfRefXform size="16"> 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 0 </FeatureFrameOfRefXform>
 </Equation_Goal>
@@ -4421,7 +4421,7 @@
 <GeomMeshType value="1"/>
 <GeomType value="0"/>
 <GeomUUID value="00000000-0000-0000-0000-000000000000"/>
-<BodiesIDs size="1"> 690e887e-cd4b-4a5d-b3cb-2b85f35a89a8 </BodiesIDs>
+<BodiesIDs size="1"> f2e0fab8-960f-4c73-8250-cd84eb4f73f1 </BodiesIDs>
 </Geometry>
 <ReferenceParameters index="0">
 <ConstTemperature value="293.19999999999999"/>

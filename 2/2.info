@@ -1,32 +1,32 @@
 Model: Full Rocket Assembly.SLDASM
 Project name: Rocket Only
 Config name: Default
-Project path: C:\Users\Kyle\Important\rocketrycad26\2\2.xmlconfig
+Project path: C:\Users\DanNo\Documents\rocketry stuff\1. rocket cad git\2\2.xmlconfig
 Status: Finished
 
 Number of cells:
-    Total cells: 81576
-    Fluid cells: 81576
-    Solid cells: 1440
-    Fluid cells containing solids: 1296
+    Total cells: 128492
+    Fluid cells: 128492
+    Solid cells: 1472
+    Fluid cells containing solids: 1280
 
 
-Geometry preparation finished: 01:59:31
-Geometry preparation time: 00:00:02
-Solver CPU time: 00:00:48
-Iterations: 87
-Travels: 1.00300
+Geometry preparation finished: 13:56:07
+Geometry preparation time: 00:00:03
+Solver CPU time: 00:01:52
+Iterations: 148
+Travels: 1.46647
 Physical time: 0.000000e+00 s
 Current time step: 0.000000e+00 s
-Last iteration finished: 02:00:16
-CPU time per last iteration: 00:00:00
-CPU time left: 00:02:12
-Iterations per 1 travel: 87
+Last iteration finished: 13:57:52
+CPU time per last iteration: 00:00:01
+CPU time left: 00:00:17
+Iterations per 1 travel: 101
 
 Goals
     Name            | Unit (SI) | Value           | Progress  | Critetia        | Delta           | Use in convergence
-    GG Force (Y) 1  | force    |         -119.05 |     100.0 |            6.89 |            6.02 | On
-    Equation Goal 1 | force    |           -0.44 |     100.0 |            0.03 |            0.02 | On
+    GG Force (Y) 1  | force    |         -152.74 |     100.0 |            0.50 |            0.49 | On
+    Equation Goal 1 | no units |            0.48 |     100.0 |            0.03 |            0.00 | On
 
 Project details
     Default fluids: Air
@@ -45,10 +45,10 @@ Project details
 System info
     Product: Flow Simulation 2025  x64 / 6875 / SOLVER ver. efd_dev.5608_04.02.2022+HMN_Inlet_Rework_V1+HMN_Inlet_Rework_V2
     CAD version: SOLIDWORKS 2025 SP5.0
-    Computer name: DESKTOP-H0F7FJV
-    User name: Kyle
+    Computer name: DESKTOP-PKCA54I
+    User name: DanNo
     Operating system: Windows 11 (or higher) (Version 10.0.26200)
-    Processors: 11th Gen Intel(R) Core(TM) i7-11370H @ 3.30GHz
-    Number of cores: 8
-    Memory: 15995 MB / 32602 MB
+    Processors: AMD Ryzen 9 7940HS w/ Radeon 780M Graphics     
+    Number of cores: 16
+    Memory: 22126 MB / 48349 MB
 

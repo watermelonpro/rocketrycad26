@@ -1,6 +1,6 @@
-2026-Jul-10 02:00:16
-Computer name:	DESKTOP-H0F7FJV
-Number of cores used in calculation:	8
+2026-Jul-10 13:57:53
+Computer name:	DESKTOP-PKCA54I
+Number of cores used in calculation:	16
 Configuration name:	Default
 Project name:	Rocket Only
 

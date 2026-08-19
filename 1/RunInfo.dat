@@ -1,29 +1,29 @@
-﻿absolute path:C:\Users\Kyle\Important\rocketrycad26\1
+﻿absolute path:C:\Users\DanNo\Documents\rocketry stuff\1. rocket cad git\1
 init:1
-run_capture:0
+run_capture:1
 run_solver:1
 new_calc:1
 close_monitor:0
 run_convert:0
 isOK:1
-ForceNewCalc:0
-run_capture_prestate:0
-StartFldName:C:\Users\Kyle\Important\rocketrycad26\1\1.fld
+ForceNewCalc:1
+run_capture_prestate:1
+StartFldName:C:\Users\DanNo\Documents\rocketry stuff\1. rocket cad git\1\1.fld
 NewCalcStartCptName:
 TransTimeMoments:
 TransFldNames:
 CurSelTranFld:0
 Trans:0
 UsePrevRes:0
-ForcetoRunCPT:0
+ForcetoRunCPT:1
 ComputerName:
-port:23180
+port:63174
 ProcessResults:1
 LoadLastResult:1
 ProcessorsToUse:0
 LoadBaseFLDFile:0
 BaseFLDFile:
-id:{FA64E655-8F04-4F7C-AAF6-C649F998AE91}
+id:{95915C39-5D80-4D74-BB97-14A665B1E12A}
 calculation_state:5
 ForceContinue:0
-SolverProcessId:33312
+SolverProcessId:33536
